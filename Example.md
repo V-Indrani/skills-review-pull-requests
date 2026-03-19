@@ -18,7 +18,6 @@ function greet(name) {
 }
 ```
 ## Getting Started
-To get started with this project:
 
 1. Clone the repository
 2. Open the project folder

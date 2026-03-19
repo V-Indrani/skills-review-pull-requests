@@ -9,7 +9,7 @@ It can be used as a reference for README files, documentation, or notes.
 - Easy-to-read formatting
 - Supports code blocks and lists
 
-\## Usage
+## Usage
 Below is an example of a code block in Markdown:
 
 ```js
